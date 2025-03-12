@@ -2,6 +2,9 @@
 
 このプロジェクトは、ボトリングラインのシミュレーションを提供するOPC UAサーバーを含んでいます。Pythonと`freeopcua`ライブラリを使用して、機械の状態をシミュレートします。
 
+以下のリポジトリを参考にしました
+https://github.com/aws-samples/aws-iot-app-kit-bottling-line-demo
+
 ## 前提条件
 
 - Python 3.6+
