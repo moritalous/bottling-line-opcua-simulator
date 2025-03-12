@@ -9,12 +9,7 @@
 
 ## インストール
 
-1. プロジェクトディレクトリに移動します:
-   ```bash
-   cd assets/python_simulator
-   ```
-
-2. 必要なパッケージをインストールします:
+1. 必要なパッケージをインストールします:
    ```bash
    pip install -r requirements.txt
    ```
